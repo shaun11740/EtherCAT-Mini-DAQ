@@ -8,5 +8,7 @@ The EtherCAT master device is a NI CompactRIO 9082 which allows data to be logge
 Full instructions and information may be found in the supporting documents attatched:
 
 Document 1 - Overview : An overview of the purpose, design and technical specification of the EtherCAT Mini-DAQ.
+
 Document 2 - How-to-Use : A startup guide for use in default configuration.
+
 Document 3 - Configuration : A guide to re-configuring the Mini-DAQ (for >8 analogue channels or additional digital sensors beyond accelerometer)
